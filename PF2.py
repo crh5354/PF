@@ -112,7 +112,7 @@ class DataHandlers(object):
         elif results == "06":
             results = ">"
         elif results == "07":
-            results = "?"
+            results = "."
         elif results == "08":
             results = "|"
         elif results == "09":
